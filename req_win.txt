@@ -1,0 +1,12 @@
+diffusers
+transformers
+einops
+huggingface_hub
+opencv-python
+trimesh
+omegaconf
+scikit-image
+peft
+jaxtyping
+typeguard
+pymeshlab # Added for face reduction
